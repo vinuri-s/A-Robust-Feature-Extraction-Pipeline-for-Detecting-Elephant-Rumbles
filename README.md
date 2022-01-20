@@ -1,2 +1,3 @@
 # A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles
-A Robust Feature Extraction Pipeline for Detecting Elephant Rumbles using Wavelet Transformation. 
+
+![alt text](https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/High%20Level%20Architecture.png?raw=true)
