@@ -24,5 +24,6 @@ The following figure represents the high-level diagram of the proposed methodolo
 
 ## Instructions 💁‍♀️
 
-- <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Original_Dataset.ipynb" target="_blank">Feature_Extraction_Original_Dataset.ipynb</a> file contains the source code for complete feature extraction process of the **Dataset 2** from preprocessing to feature extraction.
-- <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Replayed_Dataset.ipynb" target="_blank">Feature_Extraction_Replayed_Dataset.ipynb</a> file contains the source code for complete feature extraction process of the **Dataset 1** from preprocessing to feature extraction.
+- <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Original_Dataset.ipynb" target="_blank">Feature_Extraction_Original_Dataset.ipynb</a> file contains the source code for Complete Feature Extraction Process of the **Dataset 2** from Preprocessing to Feature Extraction.
+- <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Replayed_Dataset.ipynb" target="_blank">Feature_Extraction_Replayed_Dataset.ipynb</a> file contains the source code for Complete Feature Extraction process of the **Dataset 1** from Preprocessing to Feature Extraction.
+(The exported Feature CSV files can be viewed <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/tree/main/Features%20CSV" target="_blank">here</a>.)
