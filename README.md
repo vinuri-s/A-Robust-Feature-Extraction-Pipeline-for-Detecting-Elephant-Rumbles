@@ -23,3 +23,5 @@ The following figure represents the high-level diagram of the proposed methodolo
 - Finally, reduced feature vector passes into the pre-trained classifier. The classifier will determine whether given signal segment consists of infrasonic elephant rumble or not.
 
 ## Instructions 💁‍♀️
+
+- <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Original_Dataset.ipynb" target="_blank">Feature_Extraction_Original_Dataset.ipynb</a> contains the source code upto feature extraction in the **Dataset 2** while <a href="https://github.com/vinuri-s/A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles/blob/main/Feature_Extraction_Replayed_Dataset.ipynb" target="_blank">Feature_Extraction_Replayed_Dataset.ipynb</a> contains the feature extraction in **Dataset 1**.
