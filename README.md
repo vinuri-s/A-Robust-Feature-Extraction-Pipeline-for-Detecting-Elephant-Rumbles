@@ -1,6 +1,6 @@
 # A-Robust-Feature-Extraction-Pipeline-for-Detecting-Elephant-Rumbles
 
-## About
+## Design
 
 A sound processing pipeline for accurately detecting elephant rumbles recorded by the ELOC node. For robust feature extraction and noise denoising of the elephant rumbles, a novel approach known as **Wavelet Transform** is used. The proposed research methodology incorporates 4 main modules: 
 - **Pre-processing module**
@@ -15,3 +15,5 @@ The following figure represents the high-level diagram of the proposed methodolo
 The two datasets used by this study is as follows:
 - **Dataset-1:** Replayed elephant rumbles and negative dataset captured using Eloc node.
 - **Dataset-2:** A collection of originally-recorded elephant rumbles and other non-elephant sounds captured in the same field has used as the positive and negative datasets.
+
+## Implementation
